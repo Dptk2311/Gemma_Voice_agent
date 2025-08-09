@@ -1,0 +1,14 @@
+sounddevice
+openai-whisper
+numpy
+scipy
+pandas
+google-cloud-texttospeech
+langchain
+langchain_community
+langchain-core
+langchain-chroma
+langchain-ollama
+chromadb
+ollama
+tqdm
