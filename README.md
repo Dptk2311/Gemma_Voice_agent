@@ -50,7 +50,7 @@ Ensure you have the file `realistic_restaurant_reviews.csv` in the project direc
 - Set the environment variable before running the script:
 
 ```sh
-export GOOGLE_APPLICATION_CREDENTIALS="/path/to/your/credentials.json"
+$env:GOOGLE_APPLICATION_CREDENTIALS="/path/to/your/credentials.json"
 ```
 
 (On Windows, use `set` instead of `export`.)
